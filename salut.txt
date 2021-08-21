@@ -1,1 +1,1 @@
-Salut gro, tu viens de te faire niquer ton pc lol :)
+print("Salut ;)")
